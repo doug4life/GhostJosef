@@ -6,7 +6,7 @@ export default function Home() {
   return (
     <div className="container">
       <Head>
-  <img src="Screenshot%202022-01-05%20at%2012.42.17%20PM.png"></img>
+  <img src="Screenshot%202022-01-05%20at%2012.42.17%20PM.png" alt="purpleMT">
       </Head>
 
       <main>
